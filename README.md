@@ -1,2 +1,1 @@
-# projetostreaming
 # ProjetoStreaming-backend
